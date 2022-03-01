@@ -27,6 +27,7 @@ and minimize the latency and resource consumption.
 
 # Benefits of Orca
 
+# Proof-of-Concept Implementation
 
 ## People
 
